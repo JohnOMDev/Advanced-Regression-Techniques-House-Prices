@@ -2,7 +2,7 @@
 # Project Overview
 
 
-We are asking you to forecast total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills.
+The project is to forecast total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills.
 #  Project Tasks
 You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
 
